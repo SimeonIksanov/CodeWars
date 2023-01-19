@@ -1,7 +1,9 @@
+// https://www.codewars.com/kata/53d40c1e2f13e331fc000c26
+
 using System;
 using System.Numerics;
 
-namespace CodeWars_3kyu;
+namespace CodeWars;
 
 public class TheMillionthFibonacciKata
 {

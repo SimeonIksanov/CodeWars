@@ -1,8 +1,10 @@
-﻿using System;
+﻿// https://www.codewars.com/kata/585894545a8a07255e0002f1
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CodeWars_3kyu;
+namespace CodeWars;
 
 public static class ScreenLockingPatterns
 {

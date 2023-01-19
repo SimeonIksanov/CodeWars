@@ -1,7 +1,9 @@
+// https://www.codewars.com/kata/5518a860a73e708c0a000027
+
 using System;
 using System.Numerics;
 
-namespace CodeWars_3kyu;
+namespace CodeWars;
 
 public class LastDigitOfAHugeNumber
 {
