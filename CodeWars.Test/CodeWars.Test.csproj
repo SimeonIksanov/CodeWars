@@ -25,4 +25,10 @@
     <ProjectReference Include="..\CodeWars\CodeWars.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="7kyu\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="7kyu\" />
+  </ItemGroup>
 </Project>
