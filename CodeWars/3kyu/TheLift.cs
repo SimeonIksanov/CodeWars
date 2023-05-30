@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace CodeWars;
 
-public class Dinglemouse
+public partial class Dinglemouse
 {
     public static int[] TheLift(int[][] queues, int capacity)
     {

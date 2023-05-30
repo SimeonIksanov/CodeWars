@@ -1,7 +1,7 @@
 ﻿using System;
 namespace CodeWars.Test;
 
-public class DinglemouseTest
+public class DinglemouseTheLiftTest
 {
     [Fact]
     public void TestUp()
