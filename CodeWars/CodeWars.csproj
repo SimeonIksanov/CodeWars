@@ -8,8 +8,10 @@
 
   <ItemGroup>
     <None Remove="4kyu\" />
+    <None Remove="6kyu\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="4kyu\" />
+    <Folder Include="6kyu\" />
   </ItemGroup>
 </Project>
