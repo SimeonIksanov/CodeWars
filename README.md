@@ -1,5 +1,5 @@
 ![CodeWars Badge](https://www.codewars.com/users/SimeonIksanov/badges/micro)
-![Solved Problems](https://img.shields.io/badge/Solved%20Problems-132-green)
+![Solved Problems](https://img.shields.io/badge/Solved%20Problems-133-green)
 
 [CodeWars Profile](https://www.codewars.com/users/SimeonIksanov/)
 

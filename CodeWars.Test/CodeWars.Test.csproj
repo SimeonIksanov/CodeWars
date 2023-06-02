@@ -28,9 +28,11 @@
   <ItemGroup>
     <None Remove="7kyu\" />
     <None Remove="3kyu\" />
+    <None Remove="4kyu\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="7kyu\" />
     <Folder Include="3kyu\" />
+    <Folder Include="4kyu\" />
   </ItemGroup>
 </Project>
